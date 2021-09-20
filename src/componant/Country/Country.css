@@ -1,0 +1,12 @@
+.country {
+  background: #30336b;
+  border: 2px solid #e056fd;
+  padding: 15px;
+  color: #fff;
+}
+.country img {
+  width: 250px;
+}
+.country span {
+  color: #e056fd;
+}
